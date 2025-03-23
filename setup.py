@@ -12,7 +12,7 @@ DESCRIPTION = 'Filtering package'
 LONG_DESCRIPTION = 'A package that allows filtering and sorting of data efficiently.'
 
 setup(
-    name="python-base-filter",
+    name="dak0k_base_filter",
     version=VERSION,
     author="dak0k (Adaibekov Darkhan)",
     author_email="<adaibekovdarkhan5@gmail.com>",
